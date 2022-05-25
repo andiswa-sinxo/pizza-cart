@@ -69,7 +69,10 @@ table td, table th {
   .footer {
     display: flex;
   }
-  
+  .cartTotal{
+    padding-bottom: 10px;
+    font-size: 20px;
+  }
   .footer div {
     flex: 1;
   /*   border: 1px solid;
